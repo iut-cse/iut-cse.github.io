@@ -1,6 +1,6 @@
 # IUT CSE
 Assalamu alaikum.  
-Welcome to the GitHub home of Department of [Computer Science and Engineering](https://cse.iutoic-dhaka.edu/), [Islamic University of Dhaka](http://www.iutoic-dhaka.edu/).
+Welcome to the GitHub home of Department of [Computer Science and Engineering](https://cse.iutoic-dhaka.edu/), [Islamic University of Technology](http://www.iutoic-dhaka.edu/).
 
 # Projects
 Please visit [our organization on GitHub](https://github.com/iut-cse) to find all our open-source repositories.
